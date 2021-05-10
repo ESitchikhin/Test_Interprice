@@ -1,4 +1,4 @@
-# mockup-component
+# Vue example component
 
 ## Project setup
 ```
